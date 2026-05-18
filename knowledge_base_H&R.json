@@ -1,0 +1,37 @@
+{
+  "protocol_version": "H&R-1980-Standard",
+  "specialty": "Dermatology",
+  "condition": "Atopic Dermatitis",
+  "minor_criteria": {
+    "xerosis": "Generalized dry skin, often persistent and non-seasonal.",
+    "ichthyosis_palmar_keratosis": "Presence of ichthyosis (fish-scale skin), palmar hyperlinearity (excessive palm lines), or keratosis pilaris (small bumps on outer arms/thighs).",
+    "type_1_reactivity": "Immediate skin-test reactivity to common environmental allergens.",
+    "elevated_ige": "Elevated serum IgE levels above laboratory reference range.",
+    "early_age_onset": "Symptom onset typically occurring before the age of 5.",
+    "cutaneous_infections": "Tendency toward skin infections, particularly Staphylococcus aureus or Herpes simplex (eczema herpeticum).",
+    "hand_foot_dermatitis": "Non-specific chronic dermatitis localized to the hands or feet.",
+    "nipple_eczema": "Eczematous lesions specifically involving the nipple or areola (often adolescent/adult onset).",
+    "cheilitis": "Inflammation, cracking, or scaling of the lips.",
+    "recurrent_conjunctivitis": "Frequent episodes of inflammation of the conjunctiva.",
+    "dennie_morgan_fold": "A characteristic double fold of skin under the lower eyelid (infraorbital).",
+    "keratoconus": "Conical protrusion of the cornea (often associated with eye rubbing).",
+    "anterior_subcapsular_cataracts": "Characteristic lens opacities located under the anterior capsule.",
+    "orbital_darkening": "Dark circles under the eyes, often referred to as 'allergic shiners'.",
+    "facial_pallor_erythema": "Episodes of flushing or abnormal paleness of the face.",
+    "pityriasis_alba": "Hypopigmented (light-colored), scaly patches, common on the face and upper arms in children.",
+    "itch_when_sweating": "Pruritus triggered or significantly worsened by perspiration.",
+    "intolerance_wool_solvents": "Immediate skin irritation or itching upon contact with wool clothing or lipid-dissolving solvents.",
+    "perifollicular_accentuation": "Prominent, small bumps around hair follicles, particularly common in darker skin types (Fitzpatrick IV-VI).",
+    "food_intolerance": "Clinical sensitivity or allergic reactions to specific foods.",
+    "environmental_emotional_influence": "Exacerbation of symptoms due to stress, heat, humidity, or seasonal changes.",
+    "white_dermographism": "Skin turns white instead of red when stroked with a firm object.",
+    "delayed_blanch": "Delayed whitening of the skin following the application of certain vasoactive agents."
+  },
+  "major_criteria": {
+    "pruritus": "Severe itching, often the primary patient complaint.",
+    "distribution": "Age-dependent: Flexural lichenification in adults; facial and extensor involvement in infants.",
+    "chronic_history": "History of relapsing or persistent skin inflammation over months/years.",
+    "atopy_history": "Personal or family history of asthma, allergic rhinitis, or atopic dermatitis."
+  },
+  "grading_rule": "Definitive diagnosis requires at least 3 Major criteria AND at least 3 Minor criteria."
+}
